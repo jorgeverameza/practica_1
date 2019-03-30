@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Material_id: 1
+  name: MyString
+  type: 
+  unit_price: MyString
+
+two:
+  Material_id: 1
+  name: MyString
+  type: 
+  unit_price: MyString
